@@ -1,0 +1,64 @@
+{
+    "electronicItems":[
+        {
+            "item_id":1,
+            "item_name":"Smart TV",
+            "item_brand":"Samsung",
+            "item_series":"QLED 4K",
+            "item_rating":4.5,
+            "item_review":"Amazing picture quality!",
+            "item_price":999.99,
+            "item_discount":"10%",
+            "item_originalPrice":1099.99,
+            "item_deliveryCharges":"Free"
+        },
+        {
+            "item_id":2,
+            "item_name":"Robot Vacuum Cleaner",
+            "item_brand":"iRobot",
+            "item_series":"Roomba 900 Series",
+            "item_rating":4.7,
+            "item_review":"Effortless cleaning!",
+            "item_price":349.99,
+            "item_discount":"15%",
+            "item_originalPrice":399.99,
+            "item_deliveryCharges":9.99
+        },
+        {
+            "item_id":3,
+            "item_name":"Wireless Speaker",
+            "item_brand":"Bose",
+            "item_series":"SoundLink Revolve+",
+            "item_rating": 4.8,
+            "item_review":"Amazing sound quality!",
+            "item_price":199.99,
+            "item_discount":"0%",
+            "item_originalPrice":199.99,
+            "item_deliveryCharges":"Free"
+        },
+        {
+            "item_id":4,
+            "item_name":"Air Purifier",
+            "item_brand":"Dyson",
+            "item_series":"Pure Cool Link",
+            "item_rating":4.9,
+            "item_review":"Great for allergy season!",
+            "item_price":499.99,
+            "item_discount":"0%",
+            "item_originalPrice":499.99,
+            "item_deliveryCharges":"Free"
+        },
+        {
+            "item_id":5,
+            "item_name":"Wireless Router",
+            "item_brand":"TP-Link",
+            "item_series":"Archer A9",
+            "item_rating":4.4,
+            "item_review":"Fast and reliable connection!",
+            "item_price":79.99,
+            "item_discount":"20%",
+            "item_originalPrice":99.99,
+            "item_deliveryCharges":7.99
+        }
+    ]
+}
